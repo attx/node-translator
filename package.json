@@ -1,0 +1,12 @@
+{
+  "name": "node-translator",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-translate": "^2.0.5"
+  }
+}
