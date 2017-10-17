@@ -2,6 +2,8 @@
 
 > Translate a string to 104 lanuages through the Google Translator API
 
+[![npm badge][2]][1]
+
 Using the [Google Translator](https://cloud.google.com/translate) API.
 
 ## Get started
@@ -40,3 +42,6 @@ Google Translator API Access required: [cloud.google.com/translate](https://clou
   // ...
 }
 ```
+
+[1]: https://npmjs.org/package/node-translator
+[2]: https://nodei.co/npm/node-translator.png?downloads=true&stars=true
